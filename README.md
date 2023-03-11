@@ -1,4 +1,4 @@
-### Hi there 👋
+- ### Hi there 👋
 
 <!--
 **Crstl2/Crstl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👑 Crstl2
+
+**'Developer'**
+
+I make minecraft plugins.
+<p align="left">
+	<a href="https://patreon.com/Crstl2">
+		<img alt="My Patreon" title="Join my Patreon" src="https://custom-icon-badges.demolab.com/badge/Patreon-number-green/?style=for-the-badge&logo=appveyor/"/></
+		a>
