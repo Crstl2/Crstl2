@@ -44,3 +44,6 @@ I make minecraft plugins.
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Crstl2&theme=codeSTACKr&border_radius=4.5) -->
 
 #
+	
+[website]: patreon.com/Crstl2
+[youtube]: youtube.com
