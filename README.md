@@ -41,6 +41,6 @@ I make minecraft plugins.
 
 ### 📊 Stats
 
-[![Crstl's GitHub Stats](https://streak-stats.demolab.com?user=Crstl2&theme=codestackr)](https://git.io/streak-stats)
+[Crstl2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crstl2&show_icons=true&theme=codeSTACKr)
 
 #
