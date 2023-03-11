@@ -45,5 +45,6 @@ I make minecraft plugins.
 
 #
 	
-[website]: patreon.com/Crstl2
-[youtube]: youtube.com
+<!-- <details>
+ <summary><h3>👨‍💻 Crstl2's Coding Journey</h3></summary>
+   -->
