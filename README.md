@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 # 👑 Crstl2
 
-**'Developer'**
+**`Developer`**
 
 I make minecraft plugins.
 <p align="left">
 	<a href="https://patreon.com/Crstl2">
-		<img alt="My Patreon" title="Join my Patreon" src="https://custom-icon-badges.demolab.com/badge/Patreon-number-green/?style=for-the-badge&logo=appveyor/"/></
+		<img alt="My Patreon" title="Join my Patreon" src="https://custom-icon-badges.demolab.com/badge/-Patreon%20-red?style=for-the-badge&logo=patreon&logoColor=black"/></
 		a>
