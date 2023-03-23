@@ -43,7 +43,8 @@ I make minecraft plugins.
 ![Crstl2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crstl2&show_icons=true&theme=codeSTACKr)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Crstl2&theme=codeSTACKr&border_radius=4.5) -->
 
-#
+# IDE Settings
+[Intellij Settings](https://drive.google.com/file/d/1ZgT7EzMpL33_452KphiTE8uM0p7vZN28/view?usp=sharing)
 	
 <!-- <details>
  <summary><h3>👨‍💻 Crstl2's Coding Journey</h3></summary>
