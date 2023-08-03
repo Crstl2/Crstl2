@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 **`Developer`**
 
-I make minecraft plugins.
+I make Games and Minecraft plugins.
 <p align="left">
 	<a href="https://patreon.com/Crstl2">
 		<img alt="My Patreon" title="Join my Patreon" src="https://custom-icon-badges.demolab.com/badge/-Patreon%20-red?style=for-the-badge&logo=patreon&logoColor=black"/></
